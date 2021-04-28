@@ -16,3 +16,7 @@
 ### Day 3: April 27, 2021
 
 **Today's Progress**: Completed upto List Comprehension and Strings.
+
+### Day 3: April 28, 2021
+
+**Today's Progress**: Completed upto Dictionary and External Library.
