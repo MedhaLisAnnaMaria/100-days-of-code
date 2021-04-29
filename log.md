@@ -20,3 +20,7 @@
 ### Day 4: April 28, 2021
 
 **Today's Progress**: Completed upto Dictionary and External Library.
+
+### Day 5: April 29, 2021
+
+**Today's Progress**: Started Machine Learning, completed pandas.
