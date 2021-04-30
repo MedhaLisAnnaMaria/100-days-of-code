@@ -24,3 +24,7 @@
 ### Day 5: April 29, 2021
 
 **Today's Progress**: Started Machine Learning, completed pandas.
+
+### Day 6: April 30, 2021
+
+**Today's Progress**: Completed upto Model validation, Underfitting and Overfitting in ML.
