@@ -28,3 +28,7 @@
 ### Day 6: April 30, 2021
 
 **Today's Progress**: Completed upto Model validation, Underfitting and Overfitting in ML.
+
+### Day 7: May 1, 2021
+
+**Today's Progress**: Completed Kaggle ML course and Started learning R.
