@@ -32,3 +32,8 @@
 ### Day 7: May 1, 2021
 
 **Today's Progress**: Completed Kaggle ML course and Started learning R.
+
+### Day 8: May 2, 2021
+
+**Today's Progress**: Completed upto Vectors and Factors in R.
+
