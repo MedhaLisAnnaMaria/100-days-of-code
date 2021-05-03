@@ -37,3 +37,7 @@
 
 **Today's Progress**: Completed upto Vectors and Factors in R.
 
+### Day 9: May 3, 2021
+
+**Today's Progress**: Completed upto Matrices and Lists in R.
+
