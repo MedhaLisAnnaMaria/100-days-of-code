@@ -41,3 +41,7 @@
 
 **Today's Progress**: Completed upto Matrices and Lists in R.
 
+### Day 10: May 4, 2021
+
+**Today's Progress**: Completed upto Data Frames, Conditionals and Loops in R.
+
