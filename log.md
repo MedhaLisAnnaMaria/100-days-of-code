@@ -45,3 +45,6 @@
 
 **Today's Progress**: Completed upto Data Frames, Conditionals and Loops in R.
 
+### Day 11: May 5, 2021
+
+**Today's Progress**: Completed Functions, Objects & Classes and Debugging in R.
