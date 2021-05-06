@@ -48,3 +48,7 @@
 ### Day 11: May 5, 2021
 
 **Today's Progress**: Completed Functions, Objects & Classes and Debugging in R.
+
+### Day 12: May 6, 2021
+
+**Today's Progress**: Learned how to read, write and export different types of files in R.
