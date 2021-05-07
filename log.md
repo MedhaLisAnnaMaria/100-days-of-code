@@ -52,3 +52,7 @@
 ### Day 12: May 6, 2021
 
 **Today's Progress**: Learned how to read, write and export different types of files in R.
+
+### Day 13: May 7, 2021
+
+**Today's Progress**: Completed R 101(RP0101EN, provided by Cognitive Class).
