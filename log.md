@@ -56,3 +56,7 @@
 ### Day 13: May 7, 2021
 
 **Today's Progress**: Completed R 101(RP0101EN, provided by Cognitive Class).
+
+### Day 14: May 8, 2021
+
+**Today's Progress**: Started Machine Learning with R, completed upto basis of classification.
