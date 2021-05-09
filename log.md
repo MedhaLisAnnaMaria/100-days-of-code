@@ -60,3 +60,7 @@
 ### Day 14: May 8, 2021
 
 **Today's Progress**: Started Machine Learning with R, completed upto basis of classification.
+
+### Day 15: May 9, 2021
+
+**Today's Progress**: Completed Unsupervised Learning,K-Nearest Neighbors and Decision Trees in R.
