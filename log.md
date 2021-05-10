@@ -64,3 +64,8 @@
 ### Day 15: May 9, 2021
 
 **Today's Progress**: Completed Unsupervised Learning,K-Nearest Neighbors and Decision Trees in R.
+
+### Day 16: May 10, 2021
+
+**Today's Progress**: Completed Random Forest Algorithm in R.
+
