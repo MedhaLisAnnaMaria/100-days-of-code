@@ -71,5 +71,5 @@
 
 ### Day 17: May 11, 2021
 
-**Today's Progress**: Completed Regression Algorithms Model Evaluation Model Evaluation Overfitting & Underfitting Understanding Different Evaluation Models in R.
+**Today's Progress**: Completed Regression Algorithms, Model Evaluation, Model Evaluation Overfitting & Underfitting Understanding and Different Evaluation Models in R.
 
