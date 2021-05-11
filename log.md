@@ -69,3 +69,7 @@
 
 **Today's Progress**: Completed Random Forest Algorithm in R.
 
+### Day 17: May 11, 2021
+
+**Today's Progress**: Completed Regression Algorithms Model Evaluation Model Evaluation Overfitting & Underfitting Understanding Different Evaluation Models in R.
+
