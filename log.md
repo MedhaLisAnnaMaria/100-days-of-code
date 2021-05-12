@@ -73,3 +73,7 @@
 
 **Today's Progress**: Completed Regression Algorithms, Model Evaluation, Model Evaluation Overfitting & Underfitting Understanding and Different Evaluation Models in R.
 
+### Day 18: May 12, 2021
+
+**Today's Progress**: Completed K-Means Clustering in R.
+
