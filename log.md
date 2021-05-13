@@ -77,3 +77,8 @@
 
 **Today's Progress**: Completed K-Means Clustering in R.
 
+### Day 19: May 13, 2021
+
+**Today's Progress**: Completed Hierarchical Clustering in R.
+
+
