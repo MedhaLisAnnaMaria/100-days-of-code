@@ -81,4 +81,8 @@
 
 **Today's Progress**: Completed Hierarchical Clustering in R.
 
+### Day 20: May 14, 2021
+
+**Today's Progress**: Completed Algorithms for Hierarchical Clustering in R.
+
 
