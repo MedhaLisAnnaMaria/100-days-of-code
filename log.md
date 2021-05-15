@@ -85,4 +85,9 @@
 
 **Today's Progress**: Completed Algorithms for Hierarchical Clustering in R.
 
+### Day 21: May 15 2021
+
+**Today's Progress**: Started Introduction to TensorFlow.
+
+
 
