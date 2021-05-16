@@ -89,5 +89,6 @@
 
 **Today's Progress**: Started Introduction to TensorFlow.
 
+### Day 22: May 16 2021
 
-
+**Today's Progress**: Completed Core Learning Algorithms(Linear Regression upto working with data)
