@@ -92,3 +92,7 @@
 ### Day 22: May 16 2021
 
 **Today's Progress**: Completed Core Learning Algorithms(Linear Regression upto working with data)
+
+### Day 23: May 17 2021
+
+**Today's Progress**: Completed Linear Regression 
