@@ -97,7 +97,12 @@
 
 **Today's Progress**: Completed Linear Regression 
 
-
 ### Day 24: May 18 2021
 
 **Today's Progress**: Completed Classification 
+
+### Day 25: May 19 2021
+
+**Today's Progress**: Completed Clustering 
+
+
