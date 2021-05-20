@@ -105,4 +105,8 @@
 
 **Today's Progress**: Completed Clustering 
 
+### Day 26: May 20 2021
+
+**Today's Progress**: Completed Hidden Markov Models. 
+
 
