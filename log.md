@@ -109,4 +109,8 @@
 
 **Today's Progress**: Completed Hidden Markov Models. 
 
+### Day 27: May 21 2021
+
+**Today's Progress**: Started Neural Networks(completed upto Activation Functions)
+
 
