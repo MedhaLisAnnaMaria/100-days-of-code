@@ -117,12 +117,16 @@
 
 **Today's Progress**: Completed Neural Networks
 
-### Day 29: May 22 2021
+### Day 29: May 23 2021
 
 **Today's Progress**: Started Convolutional Neural Networks.
 
-### Day 30: May 23 2021
+### Day 30: May 24 2021
 
 **Today's Progress**: Completed Convolutional Neural Network.
+
+### Day 31: May 25 2021
+
+**Today's Progress**: Started Natural Language Processing With RNN
 
 
