@@ -129,4 +129,6 @@
 
 **Today's Progress**: Started Natural Language Processing With RNN
 
+### Day 32: May 26 2021
 
+**Today's Progress**: Completed RNN
