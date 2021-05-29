@@ -140,3 +140,7 @@
 ### Day 34: May 28 2021
 
 **Today's Progress**: Created a Play generator
+
+### Day 35: May 29 2021
+
+**Today's Progress**:Started Learning about Reinforcement Learning.
