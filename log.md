@@ -144,3 +144,7 @@
 ### Day 35: May 29 2021
 
 **Today's Progress**:Started Learning about Reinforcement Learning.
+
+### Day 36: May 30 2021
+
+**Today's Progress**:Completed Learning about Q Learning.
