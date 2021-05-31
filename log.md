@@ -148,3 +148,7 @@
 ### Day 36: May 30 2021
 
 **Today's Progress**:Completed Learning about Q Learning.
+
+### Day 37: May 31 2021
+
+**Today's Progress**:Completed studying How Deep Neural Networks Work
