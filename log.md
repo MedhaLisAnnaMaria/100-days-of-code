@@ -159,4 +159,8 @@
 
 ### Day 39: june 2 2021
 
-**Today's Progress**Completed Basics of Deep Learning.
+**Today's Progress**:Completed Basics of Deep Learning.
+
+### Day 40: june 3 2021
+
+**Today's Progress**:How Convolutional Neural Networks work
