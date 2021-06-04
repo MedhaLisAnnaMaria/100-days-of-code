@@ -163,4 +163,10 @@
 
 ### Day 40: june 3 2021
 
-**Today's Progress**:How Convolutional Neural Networks work
+**Today's Progress**: How Convolutional Neural Networks work
+
+### Day 41 june 4 2021
+
+**Today's Progress**: Started To learn about CV.
+ 
+
