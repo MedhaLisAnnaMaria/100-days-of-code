@@ -169,4 +169,6 @@
 
 **Today's Progress**: Started To learn about CV.
  
+### Day 42 june 5 2021
 
+**Today's Progress**: Completed Image Classification
