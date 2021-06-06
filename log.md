@@ -172,3 +172,7 @@
 ### Day 42 june 5 2021
 
 **Today's Progress**: Completed Image Classification
+
+### Day 43 june 6 2021
+
+**Today's Progress**: Started studying Detection and Segmentation
