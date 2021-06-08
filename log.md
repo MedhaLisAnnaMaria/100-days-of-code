@@ -176,3 +176,11 @@
 ### Day 43 june 6 2021
 
 **Today's Progress**: Started studying Detection and Segmentation
+
+### Day 44 june 7 2021
+
+**Today's Progress**: Learnt about Image Thresholding
+
+### Day 45 june 8 2021
+
+**Today's Progress**: Started Learning Generative Models
