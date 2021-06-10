@@ -184,3 +184,11 @@
 ### Day 45 june 8 2021
 
 **Today's Progress**: Started Learning Generative Models
+
+### Day 46 june 9 2021
+
+**Today's Progress**: Implemented RSA and DES
+
+### Day 47 june 10 2021
+
+**Today's Progress**: Started Studying about Adversarial Training
