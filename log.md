@@ -192,3 +192,7 @@
 ### Day 47 june 10 2021
 
 **Today's Progress**: Started Studying about Adversarial Training
+
+### Day 48 june 11 2021
+
+**Today's Progress**: Learnt about Matplotlib with OpenCV
