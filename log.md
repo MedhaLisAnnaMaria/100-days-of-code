@@ -196,3 +196,7 @@
 ### Day 48 june 11 2021
 
 **Today's Progress**: Learnt about Matplotlib with OpenCV
+
+### Day 49 june 12 2021
+
+**Today's Progress**: Started Learning Ethical Hacking using Python
