@@ -200,3 +200,7 @@
 ### Day 49 june 12 2021
 
 **Today's Progress**: Started Learning Ethical Hacking using Python
+
+### Day 50 june 13 2021
+
+**Today's Progress**:Created a rt bot using Python
