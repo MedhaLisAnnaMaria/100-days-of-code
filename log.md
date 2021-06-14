@@ -204,3 +204,7 @@
 ### Day 50 june 13 2021
 
 **Today's Progress**:Created a rt bot using Python
+
+### Day 51 june 14 2021
+
+**Today's Progress**: Learnt about Regular Expressions in Python
