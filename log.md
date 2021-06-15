@@ -208,3 +208,7 @@
 ### Day 51 june 14 2021
 
 **Today's Progress**: Learnt about Regular Expressions in Python
+
+### Day 52 june 15 2021
+
+**Today's Progress**: Learnt about Functions in Regex
