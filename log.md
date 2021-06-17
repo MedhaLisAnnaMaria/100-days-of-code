@@ -212,3 +212,11 @@
 ### Day 52 june 15 2021
 
 **Today's Progress**: Learnt about Functions in Regex
+
+### Day 53 june 16 2021
+
+**Today's Progress**:Created Rock,Paper,Scissor game using Python
+
+### Day 54 june 17 2021
+
+**Today's Progress**: Created Tic Tac Toe game
