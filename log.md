@@ -220,3 +220,7 @@
 ### Day 54 june 17 2021
 
 **Today's Progress**: Created Tic Tac Toe game
+
+### Day 55 june 18 2021
+
+**Today's Progress**: Started Studying Networked Programs in Python
