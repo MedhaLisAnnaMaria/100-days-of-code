@@ -224,3 +224,7 @@
 ### Day 55 june 18 2021
 
 **Today's Progress**: Started Studying Networked Programs in Python
+
+### Day 56 june 19 2021
+
+**Today's Progress**: Studied Application Protocols
